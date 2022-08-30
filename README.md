@@ -1,2 +1,2 @@
 # hackercup
-My Facebook Hacker Cup solutions
+My Meta Hacker Cup solutions
